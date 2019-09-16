@@ -75,6 +75,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="24dp"
         android:layout_marginTop="8dp"
+        android:inputType="textPassword"
         android:layout_marginRight="24dp"
         android:hint="Enter your password"
         app:layout_constraintLeft_toLeftOf="parent"
